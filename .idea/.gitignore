@@ -1,0 +1,20 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+build
+.idea
+.idea/workspace.xml
+out
+*.ipr
+*.iws
+.gradle
+.project
+.classpath
+chromedriver.log
+phantomjsdriver.log
+.settings
+classes
+*.iml
+target
+site
+test-result
